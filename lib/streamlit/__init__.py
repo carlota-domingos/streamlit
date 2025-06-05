@@ -140,6 +140,8 @@ from streamlit.commands.logo import logo as logo
 from streamlit.commands.navigation import navigation as navigation
 from streamlit.navigation.page import Page as Page
 from streamlit.elements.spinner import spinner as spinner
+from streamlit.elements.compare_llms import compare_llms as compare_llms
+
 
 from streamlit.commands.page_config import set_page_config as set_page_config
 from streamlit.commands.execution_control import (
